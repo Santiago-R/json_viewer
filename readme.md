@@ -2,12 +2,12 @@
 
 > Motivation: Launch custom data visualizations straight from the explorer window
 
-This repository is an example of custom behavior when launching files. A python script may be set up for default execution of a file extension, for example JSON.
+This repository is a recipe for custom behavior when launching files. A python script may be set up for default execution of a file extension, for example JSON.
 
 ## Files
 
-- `json_viewer.py`: Simple JSON viewer via Plotly.
-- `launcher.bat`: Batch file to launch files through the script.
+- `json_viewer.py`: Example JSON visualization via Plotly.
+- `launcher.bat`: Batch file to launch files through the json_viewer.py script.
 
 ## Example outcome
 
