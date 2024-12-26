@@ -11,4 +11,4 @@ This repository is an example of custom behavior when launching files. A python 
 
 ## Example outcome
 
-[image: spiral plotly example](spiral_example.png)
+![image: spiral plotly example](spiral_example.png)
