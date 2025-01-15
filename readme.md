@@ -1,6 +1,6 @@
 # JSON Viewer
 
-> Motivation: Launch custom data visualizations straight from the explorer window
+> Motivation: Open file into a custom data visualization
 
 This repository is a recipe for custom behavior when launching files. A python script may be set up for default execution of a file extension, for example JSON.
 
